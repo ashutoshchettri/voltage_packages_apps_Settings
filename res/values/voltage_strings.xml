@@ -249,4 +249,6 @@ When the screen is off, the torch can be enabled with one of the following key c
     <string name="navbar_compact_layout_title">Compact layout</string>
     <string name="navbar_compact_layout_summary">Use a compact layout in the navigation bar</string>
 
+    <!-- User Card -->
+    <string name="usercard_summary">Current active user, tap for more information</string>
 </resources>
